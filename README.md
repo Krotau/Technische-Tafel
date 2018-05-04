@@ -6,7 +6,8 @@ Om de repository te klonen naar je laptop open je eerst git BASH op je laptop
 
 Vervolgens navigeer je naar de map waar je de repository wilt hebben via de commando's:
 
-`- cd
+`
+- cd
 - ls
 `
 
