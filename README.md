@@ -9,7 +9,6 @@ Vervolgens navigeer je naar de map waar je de repository wilt hebben via de comm
 ```
 - cd
 - ls
-
 ```
 
 Een tip:
@@ -17,4 +16,4 @@ Om naar een map naar boven te navigeren gebruik je `cd ..`
 
 Als je in de map bent gebruik je de volgende comamndo om de repository te klonen naar je laptop:
 
-`git clone`
+```git clone [link.naar.de.repository.git]```
