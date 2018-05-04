@@ -7,8 +7,8 @@ Deze repository is aangemaakt voor een demo bij de technische tafel
 2. Vervolgens navigeer je naar de map waar je de repository wilt hebben via de commando's:
 
 ```
-- cd
-- ls
+cd
+ls
 ```
 
 Een tip:
