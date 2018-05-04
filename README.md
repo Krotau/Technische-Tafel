@@ -16,4 +16,6 @@ Om naar een map naar boven te navigeren gebruik je `cd ..`
 
 Als je in de map bent gebruik je de volgende comamndo om de repository te klonen naar je laptop:
 
-```git clone [link.naar.de.repository.git]```
+```
+git clone [link.naar.de.repository.git]
+```
